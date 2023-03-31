@@ -57,9 +57,9 @@ do_action('generate_before_footer');
  *
  * @since 2.1
  */
-do_action('generate_after_footer');
+/*do_action('generate_after_footer');*/
 
-wp_footer();
+'wp_footer'();
 ?>
 
 </body>
